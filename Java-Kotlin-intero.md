@@ -359,7 +359,7 @@ public class JavaClass {
 
 要启用这些检查，请依次转到 **File > Preferences > Editor > Inspections**，然后在“Kotlin Interoperability”下勾选要启用的规则：
 
-![img](https://developer.android.google.cn/kotlin/images/kotlin_interop_checks_settings.png)
+![img](./resource/img/kotlin_interop_checks_settings.png)
 
 
 
