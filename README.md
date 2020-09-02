@@ -1,6 +1,6 @@
 # 编码风格样式指南
 
-##   [1.Java编码风格样式指南](./JavaCodeStyleGuide)
+##   [1.Java编码风格样式指南](https://github.com/nespjin/CodeStyleGuide/blob/master/JavaCodeStyleGuide.md)
 
 原文: [AOSP Java Code Style](https://source.android.google.cn/setup/contribute/code-style)
 
